@@ -1,0 +1,10 @@
+*.lock
+*.ide
+*.ide-shm
+*.ide-wal
+*.testlog
+*.manifest
+bin
+obj
+packages
+*.tmp
